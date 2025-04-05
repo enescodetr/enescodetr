@@ -1,4 +1,13 @@
-## Hi there 👋
+## Merhaba, Ben Enes! 👋
+Ben yazılım geliştiricisiyim ve MVC, React, C#, Blazor, Nesne Yönelimli Programlama (OOP) gibi teknolojilerde deneyimim var.
+<br></br>
+Projelerimde genellikle verimli ve sürdürülebilir çözümler geliştirmeye çalışırım.
+
+# Projelerim
+- Web geliştirme: React, Blazor, PHP⚡
+- Masaüstü uygulamaları: C#, OOP😄
+- MVC ve diğer backend teknolojileri🌱
+
 
 <!--
 **enescodetr/enescodetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
