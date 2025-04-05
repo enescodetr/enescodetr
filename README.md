@@ -5,7 +5,7 @@ Projelerimde genellikle verimli ve sürdürülebilir çözümler geliştirmeye �
 
 # 
 - Web geliştirme: React, Blazor, PHP⚡
-- Masaüstü uygulamaları: C#, OOP😄
+- Masaüstü uygulamaları: C#, OOP💬
 - MVC ve diğer backend teknolojileri🌱
 
 
