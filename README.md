@@ -4,7 +4,7 @@ Ben yazılım geliştiricisiyim ve MVC, React, C#, Blazor, Nesne Yönelimli Prog
 Projelerimde genellikle verimli ve sürdürülebilir çözümler geliştirmeye çalışırım.
 
 # 
-- Web geliştirme: React, Blazor, PHP⚡
+- Web geliştirme: React, Blazor, MVC, PHP⚡
 - Masaüstü uygulamaları: C#, OOP💬
 - MVC ve diğer backend teknolojileri🌱
 
